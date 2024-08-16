@@ -1,2 +1,2 @@
-# Samplemanager
+# Samplescan
 Mangelliste software
